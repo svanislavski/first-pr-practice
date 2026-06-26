@@ -11,4 +11,4 @@ This repo exists so I can learn how to:
 - Open a pull request
 - Review and merge it
 
-Once you recieve a review and approval, the change gets merged into `main`.
+Once you receive a review and approval, the change gets merged into `main`.
